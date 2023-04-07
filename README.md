@@ -35,6 +35,18 @@ This function performs a Monte Carlo simulation of crude oil prices using the fo
 
 
 
+<h2 style="color:blue; font-weight:bold">Graphs:</h2>
+
+<h3 style="color:blue; font-weight:bold">Entire Dataset + Forecast:</h3>
+
+![newplot (15)](https://user-images.githubusercontent.com/88012037/230524755-7bd29cb5-edf6-4a30-a716-19f01520f6df.png)
+
+<h3 style="color:blue; font-weight:bold">Past Year + Forecast:</h3>
+
+![newplot (13)](https://user-images.githubusercontent.com/88012037/230524710-dd3e0d8a-eaea-4b83-8a60-3bb528c4b4cd.png)
+
+
+
 <h2 style="color:blue; font-weight:bold">Parameters:</h2>
 
 df: pandas DataFrame containing the input data
