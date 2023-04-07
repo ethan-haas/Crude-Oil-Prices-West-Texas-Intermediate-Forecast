@@ -13,6 +13,10 @@ plotly.graph_objs
 
 <h2 style="color:blue; font-weight:bold">Data Source:</h2>
 
+Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma (DCOILWTICO)
+
+Dataset source - https://fred.stlouisfed.org/series/DCOILWTICO
+
 The input data is read from an Excel file.
 
 <h2 style="color:blue; font-weight:bold">Functions:</h2>
